@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@babel/parser": "~7.2.3",
-    "bluebird": "~3.5.0",
+    "bluebird": "~3.7.2",
     "catharsis": "~0.8.9",
     "escape-string-regexp": "~1.0.5",
     "js2xmlparser": "~3.0.0",
